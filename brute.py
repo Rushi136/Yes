@@ -1,6 +1,6 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
+# Mod by: MR.Rishi
 # team: life of programmer
 
 
@@ -49,13 +49,13 @@ def banner():
     print GG+"  √=============================================√"
     print WW+"  |            MOD BY: MR.RISHI                 |"
     print GL+"  |       BHATAPALA KALA MUDA M.RAMPUR.766102   |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |        TEAM : ALL YOUTUBE LIKE FREE         |"
+    print Y+"  |             INSTAGRAM: RUSHISAHU SAHU        |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
+    print GL+"  |       TOOL CREATOR MR.RISHI  [ H.A.K ]         |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print GL+"  |•••••••••   HACK FACEBOOK YES ^_^   •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
@@ -174,7 +174,7 @@ def runn_noobs():
                   `.-::////::-.` \033[91;1m
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+             Powered by:\033[97m MR.RUHI SaHu
       """
 
 
