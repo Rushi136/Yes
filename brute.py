@@ -39,16 +39,16 @@ def banner():
     runntxt(GL+"              Rushi sahu. ^_^")
     runntxt(WW+"   ..................  ALL GITHUB LOVE YOU")
     runntxt(WW+"     ....       MR.RUSHI")
-    runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
-    runntxt(Y+"    ............       DILARANG CO*I")
-    runntxt(GG+"           INGAT COK ")
+    runntxt(GL+"                   MY YOUTUBE HACKING BAY")
+    runntxt(GG+"     ..........     LILI SAHU")
+    runntxt(Y+"    ............       LOVE YOU*I")
+    runntxt(GG+"           RUSHISAHU ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
-    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
+    print GL+"  |••••••   BAST TOOL HACK FACEBOOK YE.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
+    print WW+"  |            MOD BY: MR.RISHI                 |"
+    print GL+"  |       BHATAPALA KALA MUDA M.RAMPUR.766102   |"
     print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
     print Y+"  |             INSTAGRAM: pranata_pasha              |"
     print GL+"  |---------------------------------------------|"
