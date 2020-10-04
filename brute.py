@@ -36,9 +36,9 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
+    runntxt(GL+"              Rushi sahu. ^_^")
+    runntxt(WW+"   ..................  ALL GITHUB LOVE YOU")
+    runntxt(WW+"     ....       MR.RUSHI")
     runntxt(GL+"                   BODO AMAT CUK")
     runntxt(GG+"     ..........     MANDI DULU SANA")
     runntxt(Y+"    ............       DILARANG CO*I")
