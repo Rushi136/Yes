@@ -1,4 +1,7 @@
 # Yes
+
+║▌║▌║█│▌ FACEBOOK HACKING ▌│█║▌║▌║
+
 apt update
 
 apt upgrade
