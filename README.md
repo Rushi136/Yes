@@ -13,4 +13,5 @@ cd Yes
 
 
 python2 brute.py
-(https://i.stack.imgur.com/tSMcY.png
+
+(https://i.stack.imgur.com/YH8pv.png)![enter image description here](https://i.stack.imgur.com/auLdY.png)![enter image description here](https://i.stack.imgur.com/tSMcY.png)
