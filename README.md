@@ -2,6 +2,11 @@
 
 ║▌║▌║█│▌ FACEBOOK HACKING ▌│█║▌║▌║
 
+▁ ▂ ▄ ▅ ▆ ▇ █ FACEBOOK HACKING █ ▇ ▆ ▅ ▄ ▂ ▁
+.
+⫷ FB HACKING ⫸
+
+
 apt update
 
 apt upgrade
